@@ -14,7 +14,7 @@ This project implements Kolmogorov-Arnold Networks (KAN) for the classification 
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aimldlnlp/heart-disease-classification-with-kan.git
    cd heart-disease-classification-with-kan
    ```
 2. Install the required dependencies:
